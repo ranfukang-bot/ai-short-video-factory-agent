@@ -76,7 +76,6 @@ python scripts/run_demo.py --sample samples/tshirt_product.json
 ```
 
 
-示例导出结果已经放在 `demo_outputs/`，可以作为 GitHub 页面展示素材；真实运行生成的文件会进入 `outputs/`。
 
 运行后会在 `outputs/` 目录生成：
 

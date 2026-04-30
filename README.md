@@ -14,7 +14,6 @@
 - Token 与成本估算
 - Markdown / JSON / CSV / Excel 导出文件
 
-项目定位不是普通聊天机器人，而是一个面向真实业务链路的 **multi-agent workflow**，适合用于申请大模型 Token Plan、展示 Agent 架构能力、证明高频 Token 消耗场景。
 
 ---
 

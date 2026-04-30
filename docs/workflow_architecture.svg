@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#f8fafc"/>
+  <text x="40" y="55" font-family="Arial" font-size="28" font-weight="700" fill="#111827">AI Short Video Factory Agent</text>
+  <text x="40" y="85" font-family="Arial" font-size="15" fill="#4b5563">Multi-agent workflow for cross-border e-commerce TikTok video production</text>
+  <g font-family="Arial" font-size="14" fill="#111827">
+    <rect x="40" y="150" width="125" height="70" rx="14" fill="#e0f2fe" stroke="#7dd3fc"/>
+    <text x="66" y="180">Product</text><text x="70" y="200">Input</text>
+    <rect x="195" y="150" width="125" height="70" rx="14" fill="#ecfeff" stroke="#67e8f9"/>
+    <text x="218" y="180">Product</text><text x="220" y="200">Parser</text>
+    <rect x="350" y="150" width="125" height="70" rx="14" fill="#f0fdf4" stroke="#86efac"/>
+    <text x="373" y="180">Market</text><text x="374" y="200">Agent</text>
+    <rect x="505" y="150" width="125" height="70" rx="14" fill="#fefce8" stroke="#fde68a"/>
+    <text x="532" y="180">Script</text><text x="532" y="200">Agent</text>
+    <rect x="660" y="150" width="125" height="70" rx="14" fill="#fff7ed" stroke="#fdba74"/>
+    <text x="687" y="180">Story</text><text x="685" y="200">Board</text>
+    <rect x="815" y="150" width="125" height="70" rx="14" fill="#fdf2f8" stroke="#f9a8d4"/>
+    <text x="842" y="180">Prompt</text><text x="844" y="200">Agent</text>
+    <rect x="970" y="150" width="125" height="70" rx="14" fill="#f5f3ff" stroke="#c4b5fd"/>
+    <text x="990" y="180">Evaluator</text><text x="1002" y="200">Cost</text>
+  </g>
+  <g stroke="#64748b" stroke-width="2" marker-end="url(#arrow)">
+    <line x1="165" y1="185" x2="195" y2="185"/>
+    <line x1="320" y1="185" x2="350" y2="185"/>
+    <line x1="475" y1="185" x2="505" y2="185"/>
+    <line x1="630" y1="185" x2="660" y2="185"/>
+    <line x1="785" y1="185" x2="815" y2="185"/>
+    <line x1="940" y1="185" x2="970" y2="185"/>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#64748b"/></marker></defs>
+  <rect x="190" y="290" width="820" height="58" rx="16" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="220" y="325" font-family="Arial" font-size="16" fill="#111827">Output: TikTok scripts · storyboard · VEO/Seedance/WAN prompts · quality score · token/cost estimate · export files</text>
+</svg>

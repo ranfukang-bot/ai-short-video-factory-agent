@@ -1,0 +1,21 @@
+{
+  "product_name": "POV Oversized T-shirt",
+  "category": "fashion / T-shirt",
+  "target_market": "Indonesia",
+  "target_audience": "18-30 young TikTok users who like streetwear and affordable outfits",
+  "selling_points": [
+    "oversized streetwear fit",
+    "soft cotton fabric",
+    "bold front print",
+    "easy to match with jeans and cargo pants",
+    "comfortable for daily wear"
+  ],
+  "video_goal": "TikTok conversion short video for product card click-through",
+  "preferred_style": "streetwear OOTD, realistic model, fast rhythm, clean captions",
+  "constraints": [
+    "avoid complex cloth tearing interaction",
+    "avoid exaggerated body deformation",
+    "9:16 vertical video",
+    "keep logo and front print stable"
+  ]
+}

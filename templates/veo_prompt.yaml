@@ -1,0 +1,16 @@
+model: VEO
+style: realistic commercial TikTok video
+aspect_ratio: 9:16
+prompt_fields:
+  - product
+  - scene
+  - camera
+  - action
+  - product_focus
+  - caption
+negative_prompt:
+  - deformed hands
+  - distorted product
+  - unreadable text
+  - complex physics interaction
+  - warped logo

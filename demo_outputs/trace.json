@@ -1,0 +1,77 @@
+{
+  "total_agents": 7,
+  "total_prompt_tokens_estimate": 9372,
+  "total_completion_tokens_estimate": 6113,
+  "items": [
+    {
+      "agent_name": "Product Parser Agent",
+      "status": "success",
+      "input_summary": "{\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"video_goal\": \"TikTok conversion short video for product card click-through\", \"preferred_style\": \"streetwear OOTD, realistic model, fast rhyt",
+      "output_summary": "{\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"ai_generation_const",
+      "prompt_tokens_estimate": 165,
+      "completion_tokens_estimate": 179,
+      "latency_ms": 0,
+      "timestamp": "2026-04-30T06:16:10.863217Z"
+    },
+    {
+      "agent_name": "Market & Audience Agent",
+      "status": "success",
+      "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+      "output_summary": "{\"market\": \"Indonesia\", \"audience_motivation\": \"wants affordable style, easy matching, and social-media-ready outfits\", \"content_tone\": \"fast, visual, direct, mobile-first\", \"hook_strategy\": [\"show product clearly within first 1.5 seconds\", \"open with a movement or visual contrast instead of abstract slogan\", \"use one main selling point per shot\"], \"cta_strategy\": [\"limited-time value cue\", \"comment or shop now prompt\", \"repeat product name at ending frame\"], \"localization_notes\": [\"use casual d",
+      "prompt_tokens_estimate": 213,
+      "completion_tokens_estimate": 138,
+      "latency_ms": 0,
+      "timestamp": "2026-04-30T06:16:10.863581Z"
+    },
+    {
+      "agent_name": "Script Agent",
+      "status": "success",
+      "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+      "output_summary": "{\"scripts\": {\"15s\": {\"mode\": \"fast conversion\", \"hook\": \"Stop scrolling — see why POV Oversized T-shirt fits daily TikTok shopping.\", \"shot_plan\": [{\"shot\": 1, \"duration_sec\": 3, \"purpose\": \"hook\", \"content\": \"Hero shot of POV Oversized T-shirt entering frame with fast camera push-in\"}, {\"shot\": 2, \"duration_sec\": 3, \"purpose\": \"selling_point\", \"content\": \"Close-up showing soft cotton fabric\"}, {\"shot\": 3, \"duration_sec\": 3, \"purpose\": \"selling_point\", \"content\": \"Realistic usage or wearing scen",
+      "prompt_tokens_estimate": 363,
+      "completion_tokens_estimate": 999,
+      "latency_ms": 0,
+      "timestamp": "2026-04-30T06:16:10.864554Z"
+    },
+    {
+      "agent_name": "Storyboard Agent",
+      "status": "success",
+      "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+      "output_summary": "{\"selected_script_length\": \"24s\", \"storyboard\": [{\"shot_id\": 1, \"duration\": \"4s\", \"scene\": \"streetwear sidewalk / clean studio wall / coffee shop entrance\", \"camera\": \"fast push-in, 9:16 vertical, product center frame\", \"action\": \"model makes small natural movement: turn slightly, adjust hem, walk two steps\", \"product_focus\": \"fit, print, fabric texture, outfit matching\", \"caption\": \"POV Oversized T-shirt: made for daily TikTok style\", \"ai_risk\": \"low\", \"generation_note\": \"Keep movement simple, ",
+      "prompt_tokens_estimate": 1368,
+      "completion_tokens_estimate": 694,
+      "latency_ms": 0,
+      "timestamp": "2026-04-30T06:16:10.865551Z"
+    },
+    {
+      "agent_name": "Prompt Compiler Agent",
+      "status": "success",
+      "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+      "output_summary": "{\"prompts\": [{\"model\": \"VEO\", \"shot_id\": 1, \"positive_prompt\": \"realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: fast push-in, 9:16 vertical, product center frame. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: POV Oversized T-shirt: made f",
+      "prompt_tokens_estimate": 914,
+      "completion_tokens_estimate": 3738,
+      "latency_ms": 0,
+      "timestamp": "2026-04-30T06:16:10.867542Z"
+    },
+    {
+      "agent_name": "Quality Evaluator Agent",
+      "status": "success",
+      "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+      "output_summary": "{\"score_report\": {\"selling_point_clarity\": 91, \"tiktok_rhythm\": 88, \"ai_generation_feasibility\": 78, \"conversion_potential\": 86, \"localization_fit\": 84}, \"overall_score\": 85.4, \"risk_report\": [{\"shot_id\": 3, \"risk_level\": \"medium\", \"reason\": \"This shot may involve more motion or object interaction than pure packshot.\", \"fix\": \"Reduce hand movement, use close-up, keep product static for 1-2 seconds.\"}, {\"shot_id\": 5, \"risk_level\": \"medium\", \"reason\": \"This shot may involve more motion or object i",
+      "prompt_tokens_estimate": 4650,
+      "completion_tokens_estimate": 290,
+      "latency_ms": 0,
+      "timestamp": "2026-04-30T06:16:10.870086Z"
+    },
+    {
+      "agent_name": "Cost & Token Agent",
+      "status": "success",
+      "input_summary": "{\"trace\": {\"total_agents\": 6, \"total_prompt_tokens_estimate\": 7673, \"total_completion_tokens_estimate\": 6038, \"items\": [{\"agent_name\": \"Product Parser Agent\", \"status\": \"success\", \"input_summary\": \"{\\\"product_name\\\": \\\"POV Oversized T-shirt\\\", \\\"category\\\": \\\"fashion / T-shirt\\\", \\\"target_market\\\": \\\"Indonesia\\\", \\\"target_audience\\\": \\\"18-30 young TikTok users who like streetwear and affordable outfits\\\", \\\"selling_points\\\": [\\\"oversized streetwear fit\\\", \\\"soft cotton fabric\\\", \\\"bold front pri",
+      "output_summary": "{\"agent_count\": 7, \"input_tokens\": 7673, \"output_tokens\": 6038, \"total_tokens\": 13711, \"estimated_cost_usd\": 0.0258, \"cost_notes\": \"This is an approximate estimate based on text length, not provider billing data.\", \"scale_projection\": {\"100_sku_estimated_tokens\": 1371100, \"100_sku_estimated_cost_usd\": 2.58, \"daily_team_use_case\": \"Batch-generate scripts, storyboards, prompts and evaluation reports for multiple e-commerce SKUs.\"}}",
+      "prompt_tokens_estimate": 1699,
+      "completion_tokens_estimate": 75,
+      "latency_ms": 0,
+      "timestamp": "2026-04-30T06:16:10.871191Z"
+    }
+  ]
+}

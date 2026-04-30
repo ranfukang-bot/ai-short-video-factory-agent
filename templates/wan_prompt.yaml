@@ -1,0 +1,15 @@
+model: WAN
+style: local video generation, stable motion
+aspect_ratio: 9:16
+prompt_fields:
+  - product_reference
+  - scene
+  - simple_action
+  - camera
+  - stable_product_identity
+negative_prompt:
+  - heavy movement
+  - face distortion
+  - cloth tearing
+  - label deformation
+  - fast chaotic camera

@@ -1,0 +1,658 @@
+{
+  "product_brief": {
+    "product_name": "POV Oversized T-shirt",
+    "category": "fashion / T-shirt",
+    "target_market": "Indonesia",
+    "target_audience": "18-30 young TikTok users who like streetwear and affordable outfits",
+    "core_selling_points": [
+      "oversized streetwear fit",
+      "soft cotton fabric",
+      "bold front print",
+      "easy to match with jeans and cargo pants",
+      "comfortable for daily wear"
+    ],
+    "visual_features": [
+      "model wearing product",
+      "front print close-up",
+      "streetwear outfit",
+      "fabric texture detail"
+    ],
+    "ai_generation_constraints": [
+      "avoid complex cloth tearing interaction",
+      "avoid exaggerated body deformation",
+      "9:16 vertical video",
+      "keep logo and front print stable",
+      "use simple body movement and stable camera path",
+      "avoid hand-object interactions that require precise physics",
+      "keep product visible in the first 2 seconds"
+    ],
+    "content_angle": "TikTok conversion short video for product card click-through",
+    "missing_information": []
+  },
+  "market_strategy": {
+    "market": "Indonesia",
+    "audience_motivation": "wants affordable style, easy matching, and social-media-ready outfits",
+    "content_tone": "fast, visual, direct, mobile-first",
+    "hook_strategy": [
+      "show product clearly within first 1.5 seconds",
+      "open with a movement or visual contrast instead of abstract slogan",
+      "use one main selling point per shot"
+    ],
+    "cta_strategy": [
+      "limited-time value cue",
+      "comment or shop now prompt",
+      "repeat product name at ending frame"
+    ],
+    "localization_notes": [
+      "use casual daily-life setting",
+      "avoid long text overlays",
+      "show product benefit visually"
+    ],
+    "risk_notes": [
+      "avoid overclaiming performance",
+      "avoid showing unavailable price or logistics promises"
+    ]
+  },
+  "scripts": {
+    "scripts": {
+      "15s": {
+        "mode": "fast conversion",
+        "hook": "Stop scrolling — see why POV Oversized T-shirt fits daily TikTok shopping.",
+        "shot_plan": [
+          {
+            "shot": 1,
+            "duration_sec": 3,
+            "purpose": "hook",
+            "content": "Hero shot of POV Oversized T-shirt entering frame with fast camera push-in"
+          },
+          {
+            "shot": 2,
+            "duration_sec": 3,
+            "purpose": "selling_point",
+            "content": "Close-up showing soft cotton fabric"
+          },
+          {
+            "shot": 3,
+            "duration_sec": 3,
+            "purpose": "selling_point",
+            "content": "Realistic usage or wearing scene with simple movement"
+          },
+          {
+            "shot": 4,
+            "duration_sec": 3,
+            "purpose": "selling_point",
+            "content": "Side angle detail, keep product centered and stable"
+          },
+          {
+            "shot": 5,
+            "duration_sec": 3,
+            "purpose": "cta",
+            "content": "Before/after or match-with scenario"
+          }
+        ],
+        "captions": [
+          "POV Oversized T-shirt: made for daily TikTok style",
+          "Benefit 1: soft cotton fabric",
+          "Benefit 2: bold front print",
+          "Benefit 3: easy to match with jeans and cargo pants",
+          "Benefit 4: comfortable for daily wear"
+        ],
+        "voiceover": [
+          "Here is POV Oversized T-shirt.",
+          "Main benefit: oversized streetwear fit.",
+          "Clean look, simple decision, quick purchase."
+        ],
+        "cta": "Tap to shop / Check the product card now."
+      },
+      "24s": {
+        "mode": "balanced detail",
+        "hook": "Stop scrolling — see why POV Oversized T-shirt fits daily TikTok shopping.",
+        "shot_plan": [
+          {
+            "shot": 1,
+            "duration_sec": 4,
+            "purpose": "hook",
+            "content": "Hero shot of POV Oversized T-shirt entering frame with fast camera push-in"
+          },
+          {
+            "shot": 2,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Close-up showing soft cotton fabric"
+          },
+          {
+            "shot": 3,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Realistic usage or wearing scene with simple movement"
+          },
+          {
+            "shot": 4,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Side angle detail, keep product centered and stable"
+          },
+          {
+            "shot": 5,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Before/after or match-with scenario"
+          },
+          {
+            "shot": 6,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Macro texture/detail shot"
+          },
+          {
+            "shot": 7,
+            "duration_sec": 4,
+            "purpose": "cta",
+            "content": "Social proof style frame with clean text overlay"
+          }
+        ],
+        "captions": [
+          "POV Oversized T-shirt: made for daily TikTok style",
+          "Benefit 1: soft cotton fabric",
+          "Benefit 2: bold front print",
+          "Benefit 3: easy to match with jeans and cargo pants",
+          "Benefit 4: comfortable for daily wear",
+          "Benefit 5: oversized streetwear fit",
+          "Benefit 6: soft cotton fabric"
+        ],
+        "voiceover": [
+          "Here is POV Oversized T-shirt.",
+          "Main benefit: oversized streetwear fit.",
+          "Clean look, simple decision, quick purchase."
+        ],
+        "cta": "Tap to shop / Check the product card now."
+      },
+      "30s": {
+        "mode": "full explanation",
+        "hook": "Stop scrolling — see why POV Oversized T-shirt fits daily TikTok shopping.",
+        "shot_plan": [
+          {
+            "shot": 1,
+            "duration_sec": 4,
+            "purpose": "hook",
+            "content": "Hero shot of POV Oversized T-shirt entering frame with fast camera push-in"
+          },
+          {
+            "shot": 2,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Close-up showing soft cotton fabric"
+          },
+          {
+            "shot": 3,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Realistic usage or wearing scene with simple movement"
+          },
+          {
+            "shot": 4,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Side angle detail, keep product centered and stable"
+          },
+          {
+            "shot": 5,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Before/after or match-with scenario"
+          },
+          {
+            "shot": 6,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Macro texture/detail shot"
+          },
+          {
+            "shot": 7,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Social proof style frame with clean text overlay"
+          },
+          {
+            "shot": 8,
+            "duration_sec": 4,
+            "purpose": "selling_point",
+            "content": "Final product packshot with CTA"
+          },
+          {
+            "shot": 9,
+            "duration_sec": 4,
+            "purpose": "cta",
+            "content": "Hero shot of POV Oversized T-shirt entering frame with fast camera push-in"
+          }
+        ],
+        "captions": [
+          "POV Oversized T-shirt: made for daily TikTok style",
+          "Benefit 1: soft cotton fabric",
+          "Benefit 2: bold front print",
+          "Benefit 3: easy to match with jeans and cargo pants",
+          "Benefit 4: comfortable for daily wear",
+          "Benefit 5: oversized streetwear fit",
+          "Benefit 6: soft cotton fabric",
+          "Benefit 7: bold front print",
+          "Benefit 8: easy to match with jeans and cargo pants"
+        ],
+        "voiceover": [
+          "Here is POV Oversized T-shirt.",
+          "Main benefit: oversized streetwear fit.",
+          "Clean look, simple decision, quick purchase."
+        ],
+        "cta": "Tap to shop / Check the product card now."
+      }
+    }
+  },
+  "storyboard": {
+    "selected_script_length": "24s",
+    "storyboard": [
+      {
+        "shot_id": 1,
+        "duration": "4s",
+        "scene": "streetwear sidewalk / clean studio wall / coffee shop entrance",
+        "camera": "fast push-in, 9:16 vertical, product center frame",
+        "action": "model makes small natural movement: turn slightly, adjust hem, walk two steps",
+        "product_focus": "fit, print, fabric texture, outfit matching",
+        "caption": "POV Oversized T-shirt: made for daily TikTok style",
+        "ai_risk": "low",
+        "generation_note": "Keep movement simple, product stable, no complex physics interaction."
+      },
+      {
+        "shot_id": 2,
+        "duration": "4s",
+        "scene": "streetwear sidewalk / clean studio wall / coffee shop entrance",
+        "camera": "macro close-up, shallow depth of field",
+        "action": "model makes small natural movement: turn slightly, adjust hem, walk two steps",
+        "product_focus": "fit, print, fabric texture, outfit matching",
+        "caption": "Benefit 1: soft cotton fabric",
+        "ai_risk": "low",
+        "generation_note": "Keep movement simple, product stable, no complex physics interaction."
+      },
+      {
+        "shot_id": 3,
+        "duration": "4s",
+        "scene": "streetwear sidewalk / clean studio wall / coffee shop entrance",
+        "camera": "medium shot with slight handheld movement",
+        "action": "model makes small natural movement: turn slightly, adjust hem, walk two steps",
+        "product_focus": "fit, print, fabric texture, outfit matching",
+        "caption": "Benefit 2: bold front print",
+        "ai_risk": "medium",
+        "generation_note": "Keep movement simple, product stable, no complex physics interaction."
+      },
+      {
+        "shot_id": 4,
+        "duration": "4s",
+        "scene": "streetwear sidewalk / clean studio wall / coffee shop entrance",
+        "camera": "side tracking shot, stable product visibility",
+        "action": "model makes small natural movement: turn slightly, adjust hem, walk two steps",
+        "product_focus": "fit, print, fabric texture, outfit matching",
+        "caption": "Benefit 3: easy to match with jeans and cargo pants",
+        "ai_risk": "low",
+        "generation_note": "Keep movement simple, product stable, no complex physics interaction."
+      },
+      {
+        "shot_id": 5,
+        "duration": "4s",
+        "scene": "streetwear sidewalk / clean studio wall / coffee shop entrance",
+        "camera": "static packshot with clean text overlay",
+        "action": "model makes small natural movement: turn slightly, adjust hem, walk two steps",
+        "product_focus": "fit, print, fabric texture, outfit matching",
+        "caption": "Benefit 4: comfortable for daily wear",
+        "ai_risk": "medium",
+        "generation_note": "Keep movement simple, product stable, no complex physics interaction."
+      },
+      {
+        "shot_id": 6,
+        "duration": "4s",
+        "scene": "streetwear sidewalk / clean studio wall / coffee shop entrance",
+        "camera": "slow orbit, avoid fast deformation",
+        "action": "model makes small natural movement: turn slightly, adjust hem, walk two steps",
+        "product_focus": "fit, print, fabric texture, outfit matching",
+        "caption": "Benefit 5: oversized streetwear fit",
+        "ai_risk": "medium",
+        "generation_note": "Keep movement simple, product stable, no complex physics interaction."
+      },
+      {
+        "shot_id": 7,
+        "duration": "4s",
+        "scene": "streetwear sidewalk / clean studio wall / coffee shop entrance",
+        "camera": "cut-to-detail with rhythmic transition",
+        "action": "model makes small natural movement: turn slightly, adjust hem, walk two steps",
+        "product_focus": "fit, print, fabric texture, outfit matching",
+        "caption": "Benefit 6: soft cotton fabric",
+        "ai_risk": "medium",
+        "generation_note": "Keep movement simple, product stable, no complex physics interaction."
+      }
+    ]
+  },
+  "prompts": {
+    "prompts": [
+      {
+        "model": "VEO",
+        "shot_id": 1,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: fast push-in, 9:16 vertical, product center frame. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: POV Oversized T-shirt: made for daily TikTok style. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "Seedance",
+        "shot_id": 1,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: fast push-in, 9:16 vertical, product center frame. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: POV Oversized T-shirt: made for daily TikTok style. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "WAN",
+        "shot_id": 1,
+        "positive_prompt": "realistic local video generation, stable motion, clear subject, simple action. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: fast push-in, 9:16 vertical, product center frame. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: POV Oversized T-shirt: made for daily TikTok style. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "VEO",
+        "shot_id": 2,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: macro close-up, shallow depth of field. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 1: soft cotton fabric. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "Seedance",
+        "shot_id": 2,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: macro close-up, shallow depth of field. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 1: soft cotton fabric. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "WAN",
+        "shot_id": 2,
+        "positive_prompt": "realistic local video generation, stable motion, clear subject, simple action. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: macro close-up, shallow depth of field. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 1: soft cotton fabric. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "VEO",
+        "shot_id": 3,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: medium shot with slight handheld movement. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 2: bold front print. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "Seedance",
+        "shot_id": 3,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: medium shot with slight handheld movement. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 2: bold front print. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "WAN",
+        "shot_id": 3,
+        "positive_prompt": "realistic local video generation, stable motion, clear subject, simple action. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: medium shot with slight handheld movement. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 2: bold front print. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "VEO",
+        "shot_id": 4,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: side tracking shot, stable product visibility. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 3: easy to match with jeans and cargo pants. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "Seedance",
+        "shot_id": 4,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: side tracking shot, stable product visibility. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 3: easy to match with jeans and cargo pants. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "WAN",
+        "shot_id": 4,
+        "positive_prompt": "realistic local video generation, stable motion, clear subject, simple action. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: side tracking shot, stable product visibility. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 3: easy to match with jeans and cargo pants. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "VEO",
+        "shot_id": 5,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: static packshot with clean text overlay. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 4: comfortable for daily wear. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "Seedance",
+        "shot_id": 5,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: static packshot with clean text overlay. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 4: comfortable for daily wear. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "WAN",
+        "shot_id": 5,
+        "positive_prompt": "realistic local video generation, stable motion, clear subject, simple action. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: static packshot with clean text overlay. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 4: comfortable for daily wear. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "VEO",
+        "shot_id": 6,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: slow orbit, avoid fast deformation. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 5: oversized streetwear fit. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "Seedance",
+        "shot_id": 6,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: slow orbit, avoid fast deformation. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 5: oversized streetwear fit. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "WAN",
+        "shot_id": 6,
+        "positive_prompt": "realistic local video generation, stable motion, clear subject, simple action. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: slow orbit, avoid fast deformation. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 5: oversized streetwear fit. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "VEO",
+        "shot_id": 7,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: cut-to-detail with rhythmic transition. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 6: soft cotton fabric. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "Seedance",
+        "shot_id": 7,
+        "positive_prompt": "realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: cut-to-detail with rhythmic transition. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 6: soft cotton fabric. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      },
+      {
+        "model": "WAN",
+        "shot_id": 7,
+        "positive_prompt": "realistic local video generation, stable motion, clear subject, simple action. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: cut-to-detail with rhythmic transition. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: Benefit 6: soft cotton fabric. Vertical 9:16, clean composition, product visible, natural motion.",
+        "negative_prompt": "deformed hands, distorted product, unreadable label, bad anatomy, extra fingers, complex physics interaction, flickering logo, warped text, low resolution, fast chaotic camera",
+        "aspect_ratio": "9:16",
+        "duration": "4s",
+        "notes": "Use image reference when available. Keep product identity consistent across shots."
+      }
+    ],
+    "cover_image_prompt": "Premium TikTok e-commerce cover image for POV Oversized T-shirt, core selling points: oversized streetwear fit, soft cotton fabric, bold front print, strong visual impact, clean typography area, realistic product hero shot, high-end commercial lighting, 9:16 layout."
+  },
+  "evaluation": {
+    "score_report": {
+      "selling_point_clarity": 91,
+      "tiktok_rhythm": 88,
+      "ai_generation_feasibility": 78,
+      "conversion_potential": 86,
+      "localization_fit": 84
+    },
+    "overall_score": 85.4,
+    "risk_report": [
+      {
+        "shot_id": 3,
+        "risk_level": "medium",
+        "reason": "This shot may involve more motion or object interaction than pure packshot.",
+        "fix": "Reduce hand movement, use close-up, keep product static for 1-2 seconds."
+      },
+      {
+        "shot_id": 5,
+        "risk_level": "medium",
+        "reason": "This shot may involve more motion or object interaction than pure packshot.",
+        "fix": "Reduce hand movement, use close-up, keep product static for 1-2 seconds."
+      },
+      {
+        "shot_id": 6,
+        "risk_level": "medium",
+        "reason": "This shot may involve more motion or object interaction than pure packshot.",
+        "fix": "Reduce hand movement, use close-up, keep product static for 1-2 seconds."
+      },
+      {
+        "shot_id": 7,
+        "risk_level": "medium",
+        "reason": "This shot may involve more motion or object interaction than pure packshot.",
+        "fix": "Reduce hand movement, use close-up, keep product static for 1-2 seconds."
+      }
+    ],
+    "optimization_suggestions": [
+      "Put the strongest visible selling point in the first 2 seconds.",
+      "Avoid more than one complex action per shot.",
+      "Use 3-4 reusable scene templates to increase batch production efficiency.",
+      "Keep captions short and benefit-driven for mobile viewing."
+    ],
+    "pass_status": "pass"
+  },
+  "cost": {
+    "agent_count": 7,
+    "input_tokens": 7673,
+    "output_tokens": 6038,
+    "total_tokens": 13711,
+    "estimated_cost_usd": 0.0258,
+    "cost_notes": "This is an approximate estimate based on text length, not provider billing data.",
+    "scale_projection": {
+      "100_sku_estimated_tokens": 1371100,
+      "100_sku_estimated_cost_usd": 2.58,
+      "daily_team_use_case": "Batch-generate scripts, storyboards, prompts and evaluation reports for multiple e-commerce SKUs."
+    }
+  },
+  "trace": {
+    "total_agents": 7,
+    "total_prompt_tokens_estimate": 9372,
+    "total_completion_tokens_estimate": 6113,
+    "items": [
+      {
+        "agent_name": "Product Parser Agent",
+        "status": "success",
+        "input_summary": "{\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"video_goal\": \"TikTok conversion short video for product card click-through\", \"preferred_style\": \"streetwear OOTD, realistic model, fast rhyt",
+        "output_summary": "{\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"ai_generation_const",
+        "prompt_tokens_estimate": 165,
+        "completion_tokens_estimate": 179,
+        "latency_ms": 0,
+        "timestamp": "2026-04-30T06:16:10.863217Z"
+      },
+      {
+        "agent_name": "Market & Audience Agent",
+        "status": "success",
+        "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+        "output_summary": "{\"market\": \"Indonesia\", \"audience_motivation\": \"wants affordable style, easy matching, and social-media-ready outfits\", \"content_tone\": \"fast, visual, direct, mobile-first\", \"hook_strategy\": [\"show product clearly within first 1.5 seconds\", \"open with a movement or visual contrast instead of abstract slogan\", \"use one main selling point per shot\"], \"cta_strategy\": [\"limited-time value cue\", \"comment or shop now prompt\", \"repeat product name at ending frame\"], \"localization_notes\": [\"use casual d",
+        "prompt_tokens_estimate": 213,
+        "completion_tokens_estimate": 138,
+        "latency_ms": 0,
+        "timestamp": "2026-04-30T06:16:10.863581Z"
+      },
+      {
+        "agent_name": "Script Agent",
+        "status": "success",
+        "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+        "output_summary": "{\"scripts\": {\"15s\": {\"mode\": \"fast conversion\", \"hook\": \"Stop scrolling — see why POV Oversized T-shirt fits daily TikTok shopping.\", \"shot_plan\": [{\"shot\": 1, \"duration_sec\": 3, \"purpose\": \"hook\", \"content\": \"Hero shot of POV Oversized T-shirt entering frame with fast camera push-in\"}, {\"shot\": 2, \"duration_sec\": 3, \"purpose\": \"selling_point\", \"content\": \"Close-up showing soft cotton fabric\"}, {\"shot\": 3, \"duration_sec\": 3, \"purpose\": \"selling_point\", \"content\": \"Realistic usage or wearing scen",
+        "prompt_tokens_estimate": 363,
+        "completion_tokens_estimate": 999,
+        "latency_ms": 0,
+        "timestamp": "2026-04-30T06:16:10.864554Z"
+      },
+      {
+        "agent_name": "Storyboard Agent",
+        "status": "success",
+        "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+        "output_summary": "{\"selected_script_length\": \"24s\", \"storyboard\": [{\"shot_id\": 1, \"duration\": \"4s\", \"scene\": \"streetwear sidewalk / clean studio wall / coffee shop entrance\", \"camera\": \"fast push-in, 9:16 vertical, product center frame\", \"action\": \"model makes small natural movement: turn slightly, adjust hem, walk two steps\", \"product_focus\": \"fit, print, fabric texture, outfit matching\", \"caption\": \"POV Oversized T-shirt: made for daily TikTok style\", \"ai_risk\": \"low\", \"generation_note\": \"Keep movement simple, ",
+        "prompt_tokens_estimate": 1368,
+        "completion_tokens_estimate": 694,
+        "latency_ms": 0,
+        "timestamp": "2026-04-30T06:16:10.865551Z"
+      },
+      {
+        "agent_name": "Prompt Compiler Agent",
+        "status": "success",
+        "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+        "output_summary": "{\"prompts\": [{\"model\": \"VEO\", \"shot_id\": 1, \"positive_prompt\": \"realistic commercial TikTok video, high detail, natural lighting, mobile-first composition. Product: POV Oversized T-shirt. Scene: streetwear sidewalk / clean studio wall / coffee shop entrance. Camera: fast push-in, 9:16 vertical, product center frame. Action: model makes small natural movement: turn slightly, adjust hem, walk two steps. Focus: fit, print, fabric texture, outfit matching. Caption idea: POV Oversized T-shirt: made f",
+        "prompt_tokens_estimate": 914,
+        "completion_tokens_estimate": 3738,
+        "latency_ms": 0,
+        "timestamp": "2026-04-30T06:16:10.867542Z"
+      },
+      {
+        "agent_name": "Quality Evaluator Agent",
+        "status": "success",
+        "input_summary": "{\"product_brief\": {\"product_name\": \"POV Oversized T-shirt\", \"category\": \"fashion / T-shirt\", \"target_market\": \"Indonesia\", \"target_audience\": \"18-30 young TikTok users who like streetwear and affordable outfits\", \"core_selling_points\": [\"oversized streetwear fit\", \"soft cotton fabric\", \"bold front print\", \"easy to match with jeans and cargo pants\", \"comfortable for daily wear\"], \"visual_features\": [\"model wearing product\", \"front print close-up\", \"streetwear outfit\", \"fabric texture detail\"], \"a",
+        "output_summary": "{\"score_report\": {\"selling_point_clarity\": 91, \"tiktok_rhythm\": 88, \"ai_generation_feasibility\": 78, \"conversion_potential\": 86, \"localization_fit\": 84}, \"overall_score\": 85.4, \"risk_report\": [{\"shot_id\": 3, \"risk_level\": \"medium\", \"reason\": \"This shot may involve more motion or object interaction than pure packshot.\", \"fix\": \"Reduce hand movement, use close-up, keep product static for 1-2 seconds.\"}, {\"shot_id\": 5, \"risk_level\": \"medium\", \"reason\": \"This shot may involve more motion or object i",
+        "prompt_tokens_estimate": 4650,
+        "completion_tokens_estimate": 290,
+        "latency_ms": 0,
+        "timestamp": "2026-04-30T06:16:10.870086Z"
+      },
+      {
+        "agent_name": "Cost & Token Agent",
+        "status": "success",
+        "input_summary": "{\"trace\": {\"total_agents\": 6, \"total_prompt_tokens_estimate\": 7673, \"total_completion_tokens_estimate\": 6038, \"items\": [{\"agent_name\": \"Product Parser Agent\", \"status\": \"success\", \"input_summary\": \"{\\\"product_name\\\": \\\"POV Oversized T-shirt\\\", \\\"category\\\": \\\"fashion / T-shirt\\\", \\\"target_market\\\": \\\"Indonesia\\\", \\\"target_audience\\\": \\\"18-30 young TikTok users who like streetwear and affordable outfits\\\", \\\"selling_points\\\": [\\\"oversized streetwear fit\\\", \\\"soft cotton fabric\\\", \\\"bold front pri",
+        "output_summary": "{\"agent_count\": 7, \"input_tokens\": 7673, \"output_tokens\": 6038, \"total_tokens\": 13711, \"estimated_cost_usd\": 0.0258, \"cost_notes\": \"This is an approximate estimate based on text length, not provider billing data.\", \"scale_projection\": {\"100_sku_estimated_tokens\": 1371100, \"100_sku_estimated_cost_usd\": 2.58, \"daily_team_use_case\": \"Batch-generate scripts, storyboards, prompts and evaluation reports for multiple e-commerce SKUs.\"}}",
+        "prompt_tokens_estimate": 1699,
+        "completion_tokens_estimate": 75,
+        "latency_ms": 0,
+        "timestamp": "2026-04-30T06:16:10.871191Z"
+      }
+    ]
+  }
+}

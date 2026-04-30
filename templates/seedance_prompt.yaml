@@ -1,0 +1,15 @@
+model: Seedance
+style: fast rhythm e-commerce video
+aspect_ratio: 9:16
+prompt_fields:
+  - subject
+  - movement
+  - scene
+  - selling_point
+  - camera_motion
+negative_prompt:
+  - overexposed
+  - bad anatomy
+  - flicker
+  - wrong product shape
+  - messy background
